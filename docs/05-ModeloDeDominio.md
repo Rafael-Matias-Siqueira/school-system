@@ -21,4 +21,4 @@ Estruturação voltada para o ORM (ex: Entity Framework Core com PostgreSQL):
    Atributos: TurmaId, DisciplinaId, ProfessorId
 
 [ Nota ]
-   Atributos: Id, AlunoId, DisciplinaId, Bimestre, ValorNota (decimal
+   Atributos: Id, AlunoId, DisciplinaId, Bimestre, ValorNota (decimal)
