@@ -1,0 +1,15 @@
+C:\Users\matia\OneDrive\Área de Trabalho\Projeto de sistema de notas online\playground\bin\Debug\net10.0\playground.exe
+C:\Users\matia\OneDrive\Área de Trabalho\Projeto de sistema de notas online\playground\bin\Debug\net10.0\playground.deps.json
+C:\Users\matia\OneDrive\Área de Trabalho\Projeto de sistema de notas online\playground\bin\Debug\net10.0\playground.runtimeconfig.json
+C:\Users\matia\OneDrive\Área de Trabalho\Projeto de sistema de notas online\playground\bin\Debug\net10.0\playground.dll
+C:\Users\matia\OneDrive\Área de Trabalho\Projeto de sistema de notas online\playground\bin\Debug\net10.0\playground.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\Projeto de sistema de notas online\playground\obj\Debug\net10.0\playground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Área de Trabalho\Projeto de sistema de notas online\playground\obj\Debug\net10.0\playground.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\Projeto de sistema de notas online\playground\obj\Debug\net10.0\playground.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Área de Trabalho\Projeto de sistema de notas online\playground\obj\Debug\net10.0\playground.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\Projeto de sistema de notas online\playground\obj\Debug\net10.0\playground.sourcelink.json
+C:\Users\matia\OneDrive\Área de Trabalho\Projeto de sistema de notas online\playground\obj\Debug\net10.0\playground.dll
+C:\Users\matia\OneDrive\Área de Trabalho\Projeto de sistema de notas online\playground\obj\Debug\net10.0\refint\playground.dll
+C:\Users\matia\OneDrive\Área de Trabalho\Projeto de sistema de notas online\playground\obj\Debug\net10.0\playground.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\Projeto de sistema de notas online\playground\obj\Debug\net10.0\playground.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Área de Trabalho\Projeto de sistema de notas online\playground\obj\Debug\net10.0\ref\playground.dll
