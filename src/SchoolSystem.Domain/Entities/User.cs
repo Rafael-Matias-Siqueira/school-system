@@ -1,3 +1,4 @@
+using System.Numerics;
 using SchoolSystem.Domain.Enums;
 namespace SchoolSystem.Domain.Entities;
 
@@ -28,5 +29,25 @@ public class User
         this.Cargo = cargo;
         this.Id = Guid.NewGuid();
         this.IsAtivo = true;
+    }
+
+    private bool ValidarNome(string nome)
+    {
+        if (string.IsNullOrWhiteSpace(nome))
+        {
+            return false;
+        }
+
+        if (nome.Length < 3 || nome.Length > 100)
+        {
+            return false;
+        }
+        foreach (char c in nome)
+        {
+            if (!char.IsLetter(c) && c != ' ')
+                return false;
+        }   
+        return true;
+        
     }
 }
